@@ -14,3 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I’m Dev Bharat Patel 👋  
+
+🎓 Graduate Student in Computer Science at **NC State University**  
+💻 Passionate about **Web Development**, **Data Science**, and **Machine Learning**  
+🌐 Building scalable, user-centric applications and data-driven solutions  
+
+---
+
+## 🚀 About Me  
+- 🔭 Experienced in full-stack development with **Django REST, React, Flutter**  
+- 📊 Applied **ML/DL models** to real-world problems in **healthcare, exercise recognition, and credit risk analysis**  
+- 🛠️ Skilled in Python, Java, C++, SQL, TensorFlow, PyTorch, and OpenCV  
+- 🌱 Currently exploring **distributed systems & scalable AI applications**  
+- 🎯 Love blending research and development to solve impactful challenges  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python, C++, Java, Dart, SQL, JavaScript  
+**Frameworks & Libraries:** Django REST, React, Flask, Flutter, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV, MediaPipe  
+**Tools & Platforms:** Git, GitHub, MySQL, PostgreSQL, Figma, AutoCAD  
+
+---
+
+## 📂 Featured Projects  
+- 🔐 **[Steganography Web App](https://github.com/DevPatel1106)** – Secure embedding & extraction of messages in images/audio/video (100% accuracy for images/audio).  
+- 🏋️ **HabitLens – AI-Powered Exercise Classification** – Real-time recognition of 4 workouts with 99.34% accuracy using BiLSTM + Attention.  
+- 🌾 **Rice Crop Disease Detection (FFT + CNN)** – 96.25% accuracy with reduced inference time, presented at ITI 2024.  
+- 💳 **Explainable AI for Credit Risk (IJCNIS)** – Comparative ML model analysis with SHAP & LIME for interpretability.  
+
+---
+
+## 🌍 Let’s Connect  
+📫 Email: **devpatel0732@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/dev-patel-886425221/)  
+💻 [GitHub](https://github.com/DevPatel1106)  
+
+---
+
+⭐️ *Always open to collaborations in web dev, data science, and ML!*  

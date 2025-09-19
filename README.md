@@ -1,6 +1,6 @@
-## Hi there 👋
 
 <!--
+## Hi there 👋
 **DevPatel1106/DevPatel1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I’m Dev Bharat Patel 👋  
+## Hi, I’m Dev👋  
 
 🎓 Graduate Student in Computer Science at **NC State University**  
 💻 Passionate about **Web Development**, **Data Science**, and **Machine Learning**  

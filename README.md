@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📂 Featured Projects  
-- 🔐 **[Steganography Web App]([https://github.com/DevPatel1106/](https://github.com/DevPatel1106/SecureStego))** – Secure embedding & extraction of messages in images/audio/video (100% accuracy for images/audio).  
+- 🔐 **[Steganography Web App](https://github.com/DevPatel1106/SecureStego)** – Secure embedding & extraction of messages in images/audio/video (100% accuracy for images/audio).  
 - 🏋️ **[HabitLens – AI-Powered Exercise Classification](https://github.com/DevPatel1106/ExerciseTracker)** – Real-time recognition of 4 workouts with 99.34% accuracy using BiLSTM + Attention.  
 - 🌾 **[Distributed KV](https://github.com/DevPatel1106/Distributed-KV-Store)** – A lightweight, single-node Key-Value (KV) store in C++ with RocksDB backend.  
 <!--- 💳 **Explainable AI for Credit Risk (IJCNIS)** – Comparative ML model analysis with SHAP & LIME for interpretability. --> 

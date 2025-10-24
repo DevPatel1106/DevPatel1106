@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack  
 **Languages:** Python, C++, Java, Dart, SQL, JavaScript  
-**Frameworks & Libraries:** Django REST, React, Flask, Flutter, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV, MediaPipe  
+**Frameworks & Libraries:** Django REST, React, Node, Express, Flask, Flutter, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV, MediaPipe  
 **Tools & Platforms:** Git, GitHub, MySQL, PostgreSQL, Figma, AutoCAD  
 
 ---
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 - 🔐 **[Steganography Web App](https://github.com/DevPatel1106/SecureStego)** – Secure embedding & extraction of messages in images/audio/video (100% accuracy for images/audio).  
 - 🏋️ **[HabitLens – AI-Powered Exercise Classification](https://github.com/DevPatel1106/ExerciseTracker)** – Real-time recognition of 4 workouts with 99.34% accuracy using BiLSTM + Attention.  
 - 🌾 **[Distributed KV](https://github.com/DevPatel1106/Distributed-KV-Store)** – A lightweight, single-node Key-Value (KV) store in C++ with RocksDB backend.  
+- 🕒 **[Task Scheduler Dashboard](https://github.com/DevPatel1106/ConcTask)** – Real-time task orchestration system with Node.js, React, and SQLite featuring concurrent scheduling, metrics visualization, and dynamic UI using Material-UI.
 <!--- 💳 **Explainable AI for Credit Risk (IJCNIS)** – Comparative ML model analysis with SHAP & LIME for interpretability. --> 
 
 ---

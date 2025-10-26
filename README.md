@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 🏋️ **[HabitLens – AI-Powered Exercise Classification](https://github.com/DevPatel1106/ExerciseTracker)** – Real-time recognition of 4 workouts with 99.34% accuracy using BiLSTM + Attention.  
 - 🌾 **[Distributed KV](https://github.com/DevPatel1106/Distributed-KV-Store)** – A lightweight, single-node Key-Value (KV) store in C++ with RocksDB backend.  
 - 🕒 **[Task Scheduler Dashboard](https://github.com/DevPatel1106/ConcTask)** – Real-time task orchestration system with Node.js, React, and SQLite featuring concurrent scheduling, metrics visualization, and dynamic UI using Material-UI.
-- 🛠️ **[ConcurrentCustomMap](https://github.com/DevPatel1106/Concurrent-Custom-HashMap)** High-performance, thread-safe custom HashMap in Java using bucket-level locking, lock-free and tree-based buckets, dynamic resizing, factory design pattern, with JUnit benchmarking, multithreading tests, and detailed bucket load visualization.
+- 🛠️ **[ConcurrentCustomMap](https://github.com/DevPatel1106/Concurrent-Custom-HashMap)** – High-performance, thread-safe custom HashMap in Java using bucket-level locking, lock-free and tree-based buckets, dynamic resizing, factory design pattern, with JUnit benchmarking, multithreading tests, and detailed bucket load visualization.
 <!--- 💳 **Explainable AI for Credit Risk (IJCNIS)** – Comparative ML model analysis with SHAP & LIME for interpretability. --> 
 
 ---

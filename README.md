@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 About Me  
-- 🔭 Experienced in full-stack development with **Django REST, React, Flutter**  
+- 🔭 Experienced in full-stack development with **Django REST, React, Node, Flutter**  
 - 📊 Applied **ML/DL models** to real-world problems in **healthcare, exercise recognition, and credit risk analysis**  
 - 🛠️ Skilled in Python, Java, C++, SQL, TensorFlow, PyTorch, and OpenCV  
 - 🌱 Currently exploring **distributed systems & scalable AI applications**  
